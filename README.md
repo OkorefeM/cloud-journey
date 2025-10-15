@@ -16,7 +16,7 @@ This repository documents my journey to becoming a **Cloud Engineer**, covering 
 
 ##  Progress
 
-### Week 1 
+
 
 
 
