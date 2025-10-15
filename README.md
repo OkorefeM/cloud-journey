@@ -1,20 +1,20 @@
 # ☁️ My Cloud Engineering Journey  
 
-Hi, I’m Marho 👋🏽  
+Hi, I’m Marho   
 This repository documents my journey to becoming a **Cloud Engineer**, covering **Linux, AWS, Azure, DevOps, and Security**.  
 
 ---
 
-## 🎯 Goals
-- Build strong Linux skills
-- Learn AWS & Azure fundamentals
+##  Goals
+- Understand cloud computing
+- Learn AWS fundamentals
 - Deploy real-world cloud projects
-- Earn certifications (AWS, Azure, Security+)
+- Earn certifications 
 - Land a Cloud Engineer role  
 
 ---
 
-## 📅 Weekly Progress
+##  Progress
 
 ### Week 1 
 
